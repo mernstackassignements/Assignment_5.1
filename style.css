@@ -1,0 +1,10 @@
+/*Css file*/
+/* Style applicable to header*/
+header{
+    height: 70px;
+    background: linear-gradient( rgb(238, 238, 129),  rgb(245, 245, 68) ,  yellow );
+    border: 1px;
+    color: white;
+}
+
+
